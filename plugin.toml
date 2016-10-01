@@ -1,0 +1,6 @@
+[plugin]
+name = "dokku-md-plugin"
+description = "A plugin for dokku that provides MariaDB databases"
+version = "0.1.0"
+website_url = "https://github.com/rvtraveller/dokku-md-plugin"
+[plugin.config]
